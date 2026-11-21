@@ -1,8 +1,0 @@
-student_id,name,math,python,english,missing_id,is_duplicate,is_valid,avg,type_student
-3,Chi,9.0,9.5,9.0,False,False,True,9.2,excellent
-8,Lan,9.5,8.5,9.0,False,False,True,9.0,excellent
-6,Hoa,8.0,7.5,8.5,False,False,True,8.0,excellent
-5,Minh,7.0,8.0,7.5,False,False,True,7.5,good
-2,Binh,6.5,7.0,8.0,False,False,True,7.2,good
-7,Nam,6.0,5.5,7.0,False,False,True,6.2,mid
-4,Dung,5.5,6.0,6.5,False,False,True,6.0,mid
